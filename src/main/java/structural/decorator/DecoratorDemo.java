@@ -5,7 +5,7 @@ import com.codencode.compiler.Compiler;
 import com.codencode.compiler.CppCompiler;
 import com.codencode.logger.AroundLogger;
 
-public class Main {
+public class DecoratorDemo {
     public static void main(String[] args) {
         Compiler compiler = new CppCompiler();
 
